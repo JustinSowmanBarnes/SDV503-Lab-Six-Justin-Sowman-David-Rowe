@@ -1,0 +1,20 @@
+{
+  "name": "SDV503-Lab-Six-Justin-Sowman-David-Rowe",
+  "version": "1.0.0",
+  "description": "Lab Six",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinSowmanBarnes/SDV503-Lab-Six-Justin-Sowman-David-Rowe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinSowmanBarnes/SDV503-Lab-Six-Justin-Sowman-David-Rowe/issues"
+  },
+  "homepage": "https://github.com/JustinSowmanBarnes/SDV503-Lab-Six-Justin-Sowman-David-Rowe#readme"
+}
