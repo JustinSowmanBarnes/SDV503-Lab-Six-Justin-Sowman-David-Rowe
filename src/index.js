@@ -1,11 +1,9 @@
+var counts = new Object();// 
+counts.property_1 = 1039;
+counts.property_2 = 721;
 
-    var a = [1, 'P', '12', 18, 'A', 9, 41, '0'];
-    var b = a.filter(c);
+function p() {
+  console.log(counts.property_1 - counts.property_2);
+}
 
- function c(d) {
-
-  if (typeof (d) === 'number') 
-            return d;
-        }
-
-    console.log(b);
+p();

@@ -1,0 +1,3 @@
+Journal Entry 3
+
+This part of the journal is all about objects, my understanding of objects are that they are used mainly for data becuase of the way many different values can be assigned to a single variable making it a valuable function for proccesing the data of a groups of subjects. I find myself using objects in many different ways for example if i was going to make a user persona i would have alot of data to work from and using objects would be vital part of my code.
