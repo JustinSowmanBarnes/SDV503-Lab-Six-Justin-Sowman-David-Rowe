@@ -1,0 +1,3 @@
+Journal Entry 2
+
+Arrays and Numbers has to be the hardest of the 3 solutions i worked on, this is because of the complexity that comes with arrays, the thing with arrays is that every array can have many different values inside one and that filtering which ones are different then the rest is a mission and then you have to put said filter in an function which is in itself something difficult. I honestly find myself avoiding using arrays as much as i can becuase there are many other simpler alternatives that you can work with.
